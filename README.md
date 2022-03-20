@@ -42,7 +42,10 @@ Fontes:
 <i>https://github.com/hbons/git-cheat-sheet</i>
 
 
-## 1.5 - sistemas operacionais 
+## 1.5 - sistemas operacionais
+
+Sistema operacional é um software básico que gerencia os recursos da máquina e os distribui entre as diversas aplicações utilitárias
+ex: Windows,Ubuntu, MS-DOS, android etc.
 
 ## 1.6 - utilitários de administração de sistemas 
 
