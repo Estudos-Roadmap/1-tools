@@ -47,7 +47,38 @@ Fontes:
 Sistema operacional é um software básico que gerencia os recursos da máquina e os distribui entre as diversas aplicações utilitárias
 ex: Windows,Ubuntu, MS-DOS, android etc.
 
-## 1.6 - utilitários de administração de sistemas 
+## 1.6 - interpretadores de comando
+
+Interpretadores de comandos são programas de computador responsáveis por tomar as ações efetivas conforme a orientação do usuário
+através de comunicação textual 
+
+Os interpretadores de comandos permitem aos usuários emitirem vários comandos, o que requer ao usuário conhecer tais comandos e seus parâmetros, além da sintaxe da linguagem interpretada. A partir da década de 1960, a interação do usuário com o computador era primariamente realizada através de linha de comando.	
+
+Uma aplicação prática de um interpretador de comandos é a linha de comandos (português de Portugal), ou o console de comandos (português brasileiro), também chamado shell para os sistemas do tipo Unix. Ela é uma interface textual que interpreta os comandos existentes em um sistema operativo e os envia ao núcleo imprimindo posteriormente o resultado do processamento na tela.
+
+Exemplos: 
+
+* 4DOS/4OS2/4NT - (DOS, OS/2, Windows NT)
+* CL - (OS/400)
+* bash - (Linux, Mac OS X)
+* CLI/Amiga Shell - (AmigaOS)
+* cmd.exe - (OS/2, Windows NT)
+* command.com - (MS-DOS, Windows 95 - Windows XP)
+* CCP - (CP/M)
+* csh - (UNIX)
+* DCL - (VMS/OpenVMS)
+* DDT - (ITS)
+* FreeCOM - (FreeDOS)
+* iSeries QSHELL - (IBM OS/400)
+* JCL - (OS/360, z/OS)
+* ksh - (UNIX)
+* rc Shell - (Plan 9)
+* TSO - (MVS)
+* sh - (UNIX)
+* Windows PowerShell - (Windows XP, Windows Server 2003, Windows Vista, Microsoft Exchange Server 2007)
+* Windows Recovery Console - (Windows 2000, Windows XP)
+
+Para cada um desses interpretadores de comando, vc precisa conhecer seus comandos para mexer neles.
 
 ## 1.7 - documentação das ferramentas de desenvolvimento
 
