@@ -2,6 +2,7 @@
 
 ## 1.1 - github
 O GitHub é uma plataforma social colaborativa, a qual pessoas físicas e jurídicas expõem projetos na área de programação.
+Esse conteudo vai no primeiro commit
 
 ## 1.2 - teamwork
 A Teamwork é uma plataforma que possui como finalidade auxiliar o gerenciamento de tarefas e a participação em equipe. Nela, o usuário utiliza as ferramentas dispostas no site para, principalmente, auxiliar na organização de projetos. 
@@ -21,6 +22,8 @@ Já um IDE, por outro lado, é um conjunto de ferramentas de desenvolvimento de 
 Existem diferentes tipos de IDEs, alguns de grandes organizações dos quais você provavelmente já ouviu falar, como Visual Studio da Microsoft, Xcode da Apple, e o Android Studio da Google. Os IDEs populares são Eclipse, IntelliJ IDEA, NetBeans, PyCharm, entre outros.
 
 Fonte: <i>https://www.alura.com.br/artigos/o-que-e-uma-ide</i>
+
+Esse conteudo vai no primeiro commit
 
 ## 1.4 - git
 
@@ -46,6 +49,8 @@ Fontes:
 
 Sistema operacional é um software básico que gerencia os recursos da máquina e os distribui entre as diversas aplicações utilitárias
 ex: Windows,Ubuntu, MS-DOS, android etc.
+
+Esse conteudo vai no primeiro commit
 
 ## 1.6 - interpretadores de comando
 
@@ -87,6 +92,8 @@ Cada framework, biblioteca, linguagem de programação ou elemento no mundo da c
 A documentação é feita pelo criador ou organização criadora da tecnologia sendo estudada.
 
 É nela onde geralmente se explica o problema em questão e a forma como aquela tecnologia resolve aquele problema, geralmente divido em seções onde cada seção mostra uma parte da tecnologia.
+
+Esse conteudo vai no primeiro commit
 
 ## 1.8 - scrum
 
