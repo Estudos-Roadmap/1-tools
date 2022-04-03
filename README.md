@@ -6,6 +6,7 @@ Esse conteudo vai no primeiro commit
 
 ## 1.2 - teamwork
 A Teamwork é uma plataforma que possui como finalidade auxiliar o gerenciamento de tarefas e a participação em equipe. Nela, o usuário utiliza as ferramentas dispostas no site para, principalmente, auxiliar na organização de projetos. 
+Esse conteudo vai no segundo commit
 
 ## 1.3 - ide
 
@@ -44,6 +45,7 @@ Fontes:
 
 <i>https://github.com/hbons/git-cheat-sheet</i>
 
+Esse conteudo vai no segundo commit
 
 ## 1.5 - sistemas operacionais
 
@@ -85,6 +87,8 @@ Exemplos:
 
 Para cada um desses **interpretadores** de comando, vc precisa conhecer seus comandos para mexer neles.
 
+Esse conteudo vai no segundo commit
+
 ## 1.7 - documentação das ferramentas de desenvolvimento
 
 Cada framework, biblioteca, linguagem de programação ou elemento no mundo da computação vai ter um documento que descreve a tecnologia que está sendo estudada, e ela costuma ser a principal referência quando se vai estudar uma tecnologia
@@ -107,3 +111,5 @@ O backlog do produto é a principal lista do trabalho que precisa ser feita e é
 O backlog do sprint é a lista de itens, histórias de usuários ou correções de bugs selecionada pela equipes de desenvolvimento para a implementação no ciclo atual de sprint. Antes de cada sprint, durante a reunião de planejamento de sprint (que abordaremos posteriormente neste artigo), a equipe escolhe quais itens funcionarão para o sprint a partir do backlog do produto. Um backlog do sprint pode ser flexível e se desenvolver durante um sprint. No entanto, a meta fundamental do sprint, ou seja, o que a equipe deseja alcançar com o sprint atual, não pode ser comprometida.
 
 Incremento (ou meta de sprint) é o produto final utilizável, proveniente de um sprint. Na Atlassian, nós normalmente apresentamos o "incremento" durante a demonstração de final de sprint, na qual a equipe exibe o que foi concluído no sprint. Talvez você não escute a palavra "incremento" por aí, visto que ela costuma ser citada como a definição de "Concluído" dada pela equipe, como um marco, a meta de sprint ou, até mesmo, uma versão completa ou um epic lançado. Depende apenas de como as equipes definem "Concluído" e como você define suas metas de sprint. Por exemplo, algumas equipes optam por lançar algo para seus clientes no final de cada sprint. Dessa forma, para elas, a definição de "Concluído" pode ser "lançado". No entanto, essa definição pode não ser plausível para outros tipos de equipes. Vamos supor que você trabalhe em um produto baseado em servidor que só pode ser lançado para seus clientes a cada trimestre. Você ainda pode optar por trabalhar em sprints de duas semanas, mas sua definição de "concluído" pode ser o acabamento de uma versão maior que pretende lançar junto. Mas é claro que, quanto mais demorar para lançar o software, maior o risco de ele errar o alvo.
+
+Esse conteudo vai no segundo commit
