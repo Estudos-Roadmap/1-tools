@@ -78,7 +78,7 @@ Exemplos:
 * Windows PowerShell - (Windows XP, Windows Server 2003, Windows Vista, Microsoft Exchange Server 2007)
 * Windows Recovery Console - (Windows 2000, Windows XP)
 
-Para cada um desses interpretadores de comando, vc precisa conhecer seus comandos para mexer neles.
+Para cada um desses **interpretadores** de comando, vc precisa conhecer seus comandos para mexer neles.
 
 ## 1.7 - documentação das ferramentas de desenvolvimento
 
